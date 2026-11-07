@@ -829,7 +829,7 @@ tabpanels .browserStack browser {
 }
 
 #ctrlTab-panel:has(.ctrlTab-preview:not([hidden="true"])) {
-  scale: 0.7 !important;
+  scale: 0.8 !important;
   border-radius: var(--arc-border-radius, 12px) !important;
 }
 
